@@ -10,6 +10,7 @@ class practice{
 	int k=10;
 	int m=387;
 	int r=k+m;
+	String s="krishna";
 	
 	}
 =======
