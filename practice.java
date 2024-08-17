@@ -3,6 +3,7 @@ class practice{
     int b=15;
     int c=20;
     String s="krishna";
+    String m="mounika";
 
 
 
