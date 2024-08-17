@@ -17,13 +17,6 @@ class practice{
 		System.out.println(res);
 		//logic
 	}
-
-	//task 321
-	public void m3(){
-	String s="sravani";
-
-	
-	}
 	
 
 }
