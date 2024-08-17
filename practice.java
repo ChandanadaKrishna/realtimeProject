@@ -4,6 +4,7 @@ class practice{
     int c=20;
     String s="krishna";
     String m="mounika";
+	String r="raju";
 
 
 
